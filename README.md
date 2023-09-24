@@ -59,7 +59,7 @@ Contributions are welcome! If you have ideas for improvements or find any issues
 This Student Database Management System is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
-If you have any questions or need assistance, please feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need assistance, please feel free to contact us at [your-email@example.com](mailto:mandalsaibal677.com).
 
 ---
 
